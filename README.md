@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TensorFlow, DS/Algorithms, Predective modelling**
 
-- 🌱 I’m currently learning **Hadoop, Kafka, Predictive modelling , ML Algorithms, DS/Algo**
+- 🌱 I’m currently learning **Hadoop, Kafka, ML Algorithms, DS/Algo**
 
 - 👯 I’m looking to collaborate on **Creating dashboards, Finding out various inputs from a given data sets or extracting data sets from websites or any other data sources**
 
