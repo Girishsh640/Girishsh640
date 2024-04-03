@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Girish Kumar Sharma(H4CK6E9)</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Girish Kumar Sharma</h1>
+<h3 align="center">A passionate Java Developer with evolving Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishsh640&label=Profile%20views&color=0e75b6&style=flat" alt="girishsh640" /> </p>
 
